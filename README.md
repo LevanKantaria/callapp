@@ -3,7 +3,7 @@
 
  <p> This app was created as Technical Task for callapp. Task was to display / modify  JSON data as a table and Piechart using specific tools.   </p>
  
-
+ <h3> Live Preview :  https://callapp-levani-kantaria.web.app </h3> 
 
 <ul> <h2> Tools Used : </h2> 
 
@@ -18,3 +18,5 @@
 
 
 </ul>
+
+<img src="callapp.jpg" alt="preview" />
